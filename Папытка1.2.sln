@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.37216.2
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Папытка1.2", "Папытка1.2\Папытка1.2.csproj", "{E37FC0EF-E43F-43FE-9751-C9FD09739857}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Библиотека", "Библиотека\Библиотека.csproj", "{8B41A126-A61A-4894-8DC5-29B1555B1EA6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Тест", "Тест\Тест.csproj", "{944BAAC4-8C83-4989-A1FF-2FAA04EB3DFC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E37FC0EF-E43F-43FE-9751-C9FD09739857}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E37FC0EF-E43F-43FE-9751-C9FD09739857}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E37FC0EF-E43F-43FE-9751-C9FD09739857}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E37FC0EF-E43F-43FE-9751-C9FD09739857}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8B41A126-A61A-4894-8DC5-29B1555B1EA6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8B41A126-A61A-4894-8DC5-29B1555B1EA6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8B41A126-A61A-4894-8DC5-29B1555B1EA6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8B41A126-A61A-4894-8DC5-29B1555B1EA6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{944BAAC4-8C83-4989-A1FF-2FAA04EB3DFC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{944BAAC4-8C83-4989-A1FF-2FAA04EB3DFC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{944BAAC4-8C83-4989-A1FF-2FAA04EB3DFC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{944BAAC4-8C83-4989-A1FF-2FAA04EB3DFC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2346024F-A55F-4BCA-9C56-D8FF08A10B63}
+	EndGlobalSection
+EndGlobal
